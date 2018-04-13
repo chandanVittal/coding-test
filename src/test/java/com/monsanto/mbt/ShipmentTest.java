@@ -3,8 +3,6 @@ package com.monsanto.mbt;
 
 import org.junit.Test;
 
-import static org.junit.Assert.assertTrue;
-
 public class ShipmentTest {
 
     @Test
